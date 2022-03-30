@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prabhatharawa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17isIpjCzsK2OLjUJu06kos1eSmLFDYYd/view?usp=sharing](https://drive.google.com/file/d/17isIpjCzsK2OLjUJu06kos1eSmLFDYYd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17isIpjCzsK2OLjUJu06kos1eSmLFDYYd/view?usp=sharing](CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
