@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Recognition of Sinhala Machine-Printed Text for Postal Address Interpretation and Postal Automation**
 
-- 🌱 I’m currently learning **Machine learning, Deep Learning & Neural Networks, Computer vision**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning & Neural Networks, Computer Vision**
 
 - 📫 How to reach me **prabhatharawa@gmail.com**
 
